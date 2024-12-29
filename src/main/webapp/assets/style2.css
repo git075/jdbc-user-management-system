@@ -1,0 +1,63 @@
+*{
+    padding:0%;
+    margin:0%;
+    color: blue;
+}
+#head{
+    height:60px;
+    background-color:black;
+    position:fixed;
+
+}
+#name{
+    font-size: 25px;
+    color:rgb(254, 202, 72);
+    margin-right: 400px;
+}
+#account{
+    margin-left:500px;
+}
+#input{
+    font-size: 25px;
+}
+#butt{
+    font-size:25px;
+    background-color:rgb(254, 202, 72) ;
+}
+
+.content{
+    height:100px;
+    width:100px;
+    background-color: blue;
+
+}
+#foot{
+    height:200px;
+    background-color: black;
+  }
+  #foot2{
+    height:300px;
+    background-color: rgb(28, 28, 52);
+  }
+  #logo{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    color: rgb(254, 202, 72);
+    display:inline-block;
+    margin:50px;
+  }
+  #di{
+    height:700px;
+  }
+  .footcontent{
+    display: inline-block;
+    height:100px;
+    width:150px;
+    margin-right: 220px;
+    margin-top: 5px;
+  }
+  #login{
+  height:50px;
+    background-color: black;
+  }
